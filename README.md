@@ -1,5 +1,5 @@
 # RandoPicker
-Get a random choice from an input list.
+This is a simple Telegram bot python based that gets to you a random choice from an input list.
 ___
 
 ## Setup
